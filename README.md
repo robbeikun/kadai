@@ -19,7 +19,6 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 - テスト・デバッグ：DevTools（Chrome）
 - CI/CD：GitHub Actions（ESLint）
 
-※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート]
