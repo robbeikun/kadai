@@ -5,15 +5,14 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 ## サイトイメージ
 
-![アプリ画面](https://github.com/aihat9161/PortfolioExample_WorX_ENGINEER-CLASS/blob/f72a921271bddc8d47744118a0838061c302a9d7/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.jpg?raw=true)
-
+![アプリ画面]
 ## サイトURL
  https://ooikeiba-app.vercel.app/
 
 
 ## 使用技術
 - フロントエンド：
-- バックエンド：Next.js 15.3、~Python 3.13.3（FastAPI0.115.12）~
+- バックエンド：Next.js 15.3
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
