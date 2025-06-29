@@ -1,4 +1,4 @@
-# PortfolioExample_WorX_ENGINEER-CLASS
+# Portfolio_WorX_ENGINEER-CLASS
 
 ## アプリ概要
 React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリです。  
@@ -11,7 +11,7 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 
 ## 使用技術
-- フロントエンド：
+- フロントエンド：React.js 15.3
 - バックエンド：Next.js 15.3
 - データベース：Supabase
 - デプロイ：Vercel
@@ -21,7 +21,7 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート]
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート]https://docs.google.com/spreadsheets/d/1VNu-r8wSxQcP_wIW1rlC9GUHC8zMkYZNlWwgO9iK7QE/edit?usp=sharing
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
