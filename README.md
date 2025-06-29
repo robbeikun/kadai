@@ -5,7 +5,8 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 ## サイトイメージ
 
-![アプリ画面]
+![アプリ画面]!(https://github.com/user-attachments/assets/a541ec71-b98c-43d4-b629-a67926270d1d)
+
 ## サイトURL
  https://ooikeiba-app.vercel.app/
 
@@ -21,7 +22,7 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート]https://docs.google.com/spreadsheets/d/1VNu-r8wSxQcP_wIW1rlC9GUHC8zMkYZNlWwgO9iK7QE/edit?usp=sharing
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート].(https://docs.google.com/spreadsheets/d/1VNu-r8wSxQcP_wIW1rlC9GUHC8zMkYZNlWwgO9iK7QE/edit?usp=sharing).
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
