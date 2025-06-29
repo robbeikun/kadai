@@ -5,7 +5,7 @@ React.jsとNext.jsとSupabaseを用いた大井競馬専用の予想アプリで
 
 ## サイトイメージ
 
-![アプリ画面]!.(https://github.com/user-attachments/assets/a541ec71-b98c-43d4-b629-a67926270d1d).
+![アプリ画面].(https://github.com/user-attachments/assets/a541ec71-b98c-43d4-b629-a67926270d1d).
 
 
 ## サイトURL
